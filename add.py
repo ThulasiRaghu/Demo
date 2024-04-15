@@ -1,3 +1,4 @@
 a=10
 b=10
-print(a+b)
+C=30
+print(a+b+c)
